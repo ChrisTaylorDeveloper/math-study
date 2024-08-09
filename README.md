@@ -14,3 +14,5 @@ dotnet watch --urls http://0.0.0.0:5192
 ```
 
 http://localhost:5192
+
+Could now go from https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/next
