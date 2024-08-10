@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/source/MathStudy/MathStudy.csproj",
+      "projectUniqueName": "/src/MathStudy/MathStudy.csproj",
       "projectName": "MathStudy",
-      "projectPath": "/source/MathStudy/MathStudy.csproj",
+      "projectPath": "/src/MathStudy/MathStudy.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/source/MathStudy/obj/",
+      "outputPath": "/src/MathStudy/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"

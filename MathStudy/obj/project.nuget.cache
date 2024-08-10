@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P0cqbxPMBVs=",
+  "dgSpecHash": "NNWRNBTkoz4=",
   "success": true,
-  "projectFilePath": "/source/MathStudy/MathStudy.csproj",
+  "projectFilePath": "/src/MathStudy/MathStudy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
