@@ -1,13 +1,12 @@
 # Math Study
 
+Run the following
 ```
-latex math-study.tex
-```
-
-```
-xdvi math-study.dvi &
+create-pdf.sh
 ```
 
+Docker, of course
 ```
-pdflatex math-study.tex
+docker build -t math-study .
+docker run -dit --name math-study-running -p 82:80 math-study
 ```
