@@ -2,7 +2,7 @@
 
 Run the following
 ```
-create-pdf.sh
+build-pdf.sh
 ```
 
 Docker, of course
